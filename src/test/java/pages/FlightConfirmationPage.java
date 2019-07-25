@@ -13,7 +13,7 @@ public class FlightConfirmationPage extends BasePage {
 
     public String capturarTextoSucess() {
         String screenshotArquivo = "Prints/" + Generator.dataHoraParaArquivo() + "FlightConfirmationPage" + ".png";
-        Screenshot.tirar(navegador, screenshotArquivo);//ok
+        Screenshot.tirar(navegador, screenshotArquivo);//okdfd
         return navegador.getTitle();
     }
 }
