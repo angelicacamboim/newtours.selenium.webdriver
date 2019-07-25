@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.assertEquals;
 
 public class FlighstPageObjectsTest {
-    private WebDriver navegador;
+    private WebDriver navegador;//jihjkmkl
 
     @Before
     public void setUp() {
